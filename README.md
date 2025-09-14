@@ -1,3 +1,5 @@
+<!-- v1.3: Falta colocar as bibliotecas do R e revisar o texto -->
+
 <h1 align="center">Eric D. S. M. Lino</h1>
 
 <div align="center">
@@ -40,6 +42,7 @@ Formado em **Ciências Ambientais pela UNIRIO** e mestre em **Engenharia Cartogr
 
 Além da área profissional, gosto de me dedicar à **música, jogos de tabuleiro, culinária e conteúdo visual com drones.** 
 
+---
 Bachelor in **Environmental Sciences at UNIRIO** and Master in **Cartographic Engineering at IME**, I have over 10 years of expertise in various **geosciences** fields, such as:
 
 - 🌍 **Geoprocessing**: Usage of tools such as **ArcGIS Pro**, **QGIS**, **Python** and **R** for conducting spatial analysis and statistic modelling.
